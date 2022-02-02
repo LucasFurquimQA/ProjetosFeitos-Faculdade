@@ -5,4 +5,4 @@ Vou usar esse repositório para subir os projetos, testes, brincadeiras, tudo qu
 Fico também aberto para dúvidas, caso alguem queira usar alguns exercicios de lógica para treinar, ou até mesmo alguns trabalhos, fico feliz em poder ajudar! :)
 
 
-**boa parte dessas atividades foram desenvolvidas com meu colega de classe <a href="[github.com/LucasFurquimQA]">@LucasFurquimQA</a>
+**boa parte dessas atividades foram desenvolvidas com meu colega de classe <a href="github.com/LucasFurquimQA">@LucasFurquimQA</a>
